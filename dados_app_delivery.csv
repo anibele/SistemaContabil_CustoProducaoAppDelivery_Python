@@ -1,0 +1,5 @@
+Etapa,Driver,Capacidade_Total,Custo_Pool,Consumo_Mes
+Desenvolvimento,Horas de programação,100,10000,40
+Testes (QA),Quantidade de bugs,50,10000,15
+Deploy (Infra/Cloud),Número de atualizações,10,10000,3
+Suporte Técnico,Chamados abertos,200,10000,80
